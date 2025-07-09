@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <title>Studienbescheinigung TU Berlin – Markus Newfield</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background: #cc0000;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    iframe {
+      display: block;
+      margin: 20px auto;
+      width: 90%;
+      height: 90vh;
+      border: none;
+      box-shadow: 0 0 10px rgba(0,0,0,0.3);
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Studienbescheinigung</h1>
+    <h2>Technische Universität Berlin</h2>
+    <p>Markus Newfield – Matrikelnummer: 7210456</p>
+  </header>
+  <iframe src="Studienbescheinigung_Markus.pdf"></iframe>
+</body>
+</html>
